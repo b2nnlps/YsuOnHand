@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_labels">
+        <item>红色</item>
+        <item>蓝色</item>
+        <item>白色</item>
+        <!--列表项的文本内容-->
+    </string-array>
+</resources>

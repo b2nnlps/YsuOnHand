@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">登录系统</string>
+    <string name="city_prompt">您喜欢哪座城市</string>
+    <string name="color_prompt">请选择您喜欢的颜色</string>
+</resources>
