@@ -1,0 +1,7 @@
+#Wed Sep 13 16:06:46 CST 2017
+base.0=D\:\\AS\\AndroidCode\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_73663703e80d764380e6e5509676e4ab330baad7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AS\\AndroidCode\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b9251dd334bf081e514f6822b8894fd5013477b9\\classes.dex
+base.1=D\:\\AS\\AndroidCode\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b9251dd334bf081e514f6822b8894fd5013477b9
+file.0=D\:\\AS\\AndroidCode\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_73663703e80d764380e6e5509676e4ab330baad7\\classes.dex

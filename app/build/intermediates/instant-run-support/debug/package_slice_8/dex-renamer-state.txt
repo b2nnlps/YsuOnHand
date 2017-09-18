@@ -1,0 +1,4 @@
+#Thu Aug 31 18:42:50 CST 2017
+base.0=D\:\\AS\\AndroidCode\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=D\:\\AS\\AndroidCode\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex
